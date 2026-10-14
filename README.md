@@ -8,7 +8,6 @@ I am a Computer Science student passionate about low-level programming, operatin
 - 🌐 **Web & Tools:** Lightweight web tooling with Python & Flask, REST APIs
 - 🛠️ **Current Interests:** Operating systems internals, computer networking & efficient algorithms
 
----
 
 <table border="0">
   <tr>
@@ -25,10 +24,7 @@ I am a Computer Science student passionate about low-level programming, operatin
   </tr>
 </table>
 
----
 
-
----
 
 ### Connect with me
 
