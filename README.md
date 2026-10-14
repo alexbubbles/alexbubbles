@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alessandro 
+<h1 align="center">Hi, I'm Alessandro </h1>
 <p align="center">
   <strong>Computer Science Student @ UNICAM</strong> • Embedded Systems & Software Development
 </p>
