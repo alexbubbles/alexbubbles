@@ -35,3 +35,4 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="38" alt="LinkedIn" />
   </a>
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbubbles&layout=compact&theme=dark&hide_border=true&v=1" alt="Top Langs" />
