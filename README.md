@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alessandro Virivè 👋</h1>
+<h1 align="center">Hi, I'm Alessandro 
 <p align="center">
   <strong>Computer Science Student @ UNICAM</strong> • Embedded Systems & Software Development
 </p>
@@ -29,23 +29,25 @@
 - 🎯 **Goal:** Designing robust, resource-constrained systems and high-efficiency backend services
 
 ---
+### 🛠️ Skills & Activity</h3>
 
-### 🛠️ Skills & Activity
-
-<table border="0" width="100%">
-  <tr valign="middle">
-    <td align="center" width="50%">
-      <h4>Tech Stack</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,cs,postgres&perline=4" alt="Tech Stack" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h4>Top Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbubbles&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide_title=true&v=3" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr valign="middle">
+      <td align="center" width="300">
+        <h4>Tech Stack</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,cs,postgres&perline=4" alt="Tech Stack" />
+        </a>
+      </td>
+      <td width="40"></td>
+      <td align="center" width="300">
+        <h4>Top Languages</h4>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbubbles&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide_title=true&v=3" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
