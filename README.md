@@ -2,8 +2,6 @@
 
 **CS Student @ UNICAM | Embedded Systems • Bare-Metal C • Software Development**
 
-I am a Computer Science student passionate about low-level programming, operating systems, and building efficient software architectures. I enjoy working close to the hardware—from bare-metal microcontrollers to structured system applications.
-
 - ⚙️ **Focus Areas:** Embedded Systems, AVR Architecture (ATmega328P), Low-level C
 - 🌐 **Web & Tools:** Lightweight web tooling with Python & Flask, REST APIs
 - 🛠️ **Current Interests:** Operating systems internals, computer networking & efficient algorithms
